@@ -1,2 +1,3 @@
 test
 understanding the HEAD 
+this line was modified in the new branch teste
