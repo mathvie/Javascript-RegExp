@@ -10,6 +10,16 @@ João trouxe    flores para sua amada namorada em 10 de janeiro de 1970,
     "Joooooooooãoooooooooooooooooooooooooooo   , o café tá prontinho aqui. Veeemm"!
 `;
 
+const arquivos = [
+    'Atenção.jpg',
+    'FOTO.jpg',
+    'Meu gatinho.jpg',
+    'Meu gatinho.JPG',
+    'Meu gatinho.JPEG',
+    'Marido.png',
+    'lista de compras.txt'
+]
+
 module.exports = {
-    texto
+    texto, arquivos
 }
